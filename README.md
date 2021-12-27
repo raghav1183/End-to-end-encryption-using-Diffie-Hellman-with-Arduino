@@ -1,7 +1,6 @@
 # ABOUT THE PROJECT
 
-Implement end to end encrypted  
-communication between two Arduino Nano(or any Arduino supported microcontroller boards) using UART. All code is written from scratch with no libraries used for encryption.
+Implement end to end encrypted communication between two Arduino Nanos(or any Arduino supported microcontrollers/boards) using UART. All code is written from scratch with no libraries used for encryption.
 
 
 # Build
